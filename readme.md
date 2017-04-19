@@ -3,7 +3,7 @@
 This is a cleaned up and secured version of CodeIgniter 3.1.4. The index.php file of the CodeIgniter instance has been moved to the public folder for security reasons. This version of CodeIgniter also comes with the Community Auth plugin pre installed. 
 
 ### Installation
-Do some magic stuff ;)
+Let the unicorns do their thing ;)
 
 Will be completed soon!
 
